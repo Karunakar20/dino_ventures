@@ -39,7 +39,7 @@ The easiest way to run the application is using Docker Compose.
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd internal-wallet-service
+   cd <dino_ventures>
    ```
 
 2. **Start the services:**
